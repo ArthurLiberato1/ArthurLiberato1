@@ -105,7 +105,7 @@ Meu nome é Arthur Liberato Eugênio, tenho 20 anos e sou do interior de São Pa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurLiberato1&show_icons=true&theme=apprentice&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ArthurLiberato1&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
   />
   
 
@@ -113,7 +113,7 @@ Meu nome é Arthur Liberato Eugênio, tenho 20 anos e sou do interior de São Pa
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLiberato1&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLiberato1&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
