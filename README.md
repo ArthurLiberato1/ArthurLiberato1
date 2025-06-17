@@ -105,7 +105,7 @@ Meu nome é Arthur Liberato Eugênio, tenho 20 anos e sou do interior de São Pa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurLiberato1&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ArthurLiberato1&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
   />
   
 
