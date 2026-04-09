@@ -2,7 +2,11 @@
 
 **`Desenvolvedor de Software`**
 
-Meu nome é Arthur Liberato Eugênio, tenho 20 anos e sou do interior de São Paulo. Atualmente, estou cursando Sistemas de Informação na FIPP (Unoeste). Meu objetivo é resolver problemas reais através do desenvolvimento de software.
+Sou estudante de Sistemas de Informação (7º termo) na FIPP/Unoeste, com foco em desenvolvimento **fullstack** utilizando **Java, Spring Boot e React**.
+
+Tenho experiência prática com desenvolvimento de **APIs REST**, automação de processos e criação de aplicações web voltadas para resolver problemas reais. Atualmente, desenvolvo projetos próprios com foco em boas práticas, organização de código e geração de valor para os usuários finais.
+
+📍 Presidente Prudente - SP | 20 anos
 
 <p align="left">
     <a href="mailto:arthurliberatoe@gmail.com">
