@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Arthur Liberato
+# Arthur Liberato Eugênio
 
 **`Desenvolvedor de Software`**
 
