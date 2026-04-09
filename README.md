@@ -24,7 +24,7 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
 
 ### ⚡ Tecnologias
 
-### 🧠 Linguagens
+### Linguagens
 
 <img 
     align="left" 
@@ -85,7 +85,7 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
 
 ---
 
-### 🗄️ Bancos de Dados
+### Bancos de Dados
 
 <img 
     align="left" 
@@ -128,7 +128,7 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
 
 ---
 
-### ⚙️ Frameworks e Ferramentas
+### Frameworks e Ferramentas
 
 <img 
     align="left" 
