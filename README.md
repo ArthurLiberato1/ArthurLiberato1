@@ -20,6 +20,8 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
 ---
 
 
+---
+
 ### ⚡ Tecnologias
 
 ### 🧠 Linguagens
@@ -49,6 +51,15 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
 />
 
 <img 
@@ -94,6 +105,24 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle Database"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
+/>
+
 <br/>
 <br/>
 
@@ -117,6 +146,15 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt=".NET"
+    title=".NET" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
 />
 
 <img 
@@ -155,4 +193,5 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
+<br/>
 <br/>
