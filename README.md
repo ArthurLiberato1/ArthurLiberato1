@@ -112,21 +112,3 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
-
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLiberato1&theme=city_lights&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
