@@ -19,7 +19,6 @@ Tenho experiência prática com desenvolvimento de **APIs REST**, automação de
 
 ---
 
----
 
 ### ⚡ Tecnologias
 
