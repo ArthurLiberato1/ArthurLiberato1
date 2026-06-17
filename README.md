@@ -6,7 +6,7 @@ Sou estudante de Sistemas de Informação (7º termo) na FIPP/Unoeste, com foco 
 
 Tenho experiência prática com desenvolvimento de **APIs REST**, automação de processos e criação de aplicações web voltadas para resolver problemas reais. Atualmente, desenvolvo projetos próprios com foco em boas práticas, organização de código e geração de valor para os usuários finais.
 
-📍 Presidente Prudente - SP | 20 anos
+📍 Presidente Prudente - SP | 21 anos
 
 <p align="left">
     <a href="mailto:arthurliberatoe@gmail.com">
