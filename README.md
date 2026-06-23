@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Sou estudante de Sistemas de Informação (7º termo) na FIPP/Unoeste, com foco em desenvolvimento **fullstack** utilizando **Java, Spring Boot e React**.
+Sou estudante de Sistemas de Informação (8º termo) na FIPP/Unoeste, com foco em desenvolvimento **fullstack** utilizando **Java, Spring Boot e React**.
 
 Tenho experiência prática com desenvolvimento de **APIs REST**, automação de processos e criação de aplicações web voltadas para resolver problemas reais. Atualmente, desenvolvo projetos próprios com foco em boas práticas, organização de código e geração de valor para os usuários finais.
 
